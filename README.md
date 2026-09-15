@@ -118,8 +118,8 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 - 🔹 Fully responsive modern UI
 - 🔹 Focused on layout precision and responsive design
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/gemini-ui-clone)  
-🌐 [Live Demo](https://abhishekaaryabgp.github.io/gemini-ui-clone)
+💻 [Source Code](https://github.com/iamabhishekdev/gemini-ui-clone)  
+🌐 [Live Demo](https://iamabhishekdev.github.io/gemini-ui-clone/)
 
 #### 🖥️ Desktop View
 
@@ -142,8 +142,8 @@ I'm a BCA graduate and self-driven developer focused on building clean, responsi
 - 🔹 Sidebar and music player layout
 - 🔹 Focused on recreating a modern music streaming interface
 
-💻 [Source Code](https://github.com/Abhishekaaryabgp/spotify-clone)  
-🌐 [Live Demo](https://abhishekaaryabgp.github.io/spotify-clone)
+💻 [Source Code](https://github.com/iamabhishekdev/spotify-clone)  
+🌐 [Live Demo](https://iamabhishekdev.github.io/spotify-clone)
 
 #### 🖥️ Desktop View
 
