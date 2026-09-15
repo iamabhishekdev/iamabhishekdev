@@ -217,17 +217,13 @@ Tailwind CSS        █████░░░░░░░░░░░   Currently
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=iamabhishekdev&layout=compact&theme=tokyonight&hide_border=true&hide=c,c%2B%2B,java,c%23&langs_count=6&cache_seconds=86400" width="47%" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iamabhishekdev&theme=tokyonight&hide_border=true" width="60%" />
-</p>
 ---
 
 ## 🤝 Connect With Me
 
 <a href="https://github.com/iamabhishekdev">
-    <img src="https://komarev.com/ghpvc/?username=iamabhishekdev&label=Profile+Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-IamAbhishekDev-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   &nbsp;
   <a href="https://www.linkedin.com/in/iamabhishekkumar-dev">
     <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
